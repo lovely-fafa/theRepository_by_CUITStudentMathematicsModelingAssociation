@@ -18,7 +18,7 @@ SVG是一种图形文件格式，它的英文全称为Scalable Vector Graphics�
 
 ## 2 如何制作svg图像
 
-### 2.1 python的画图库
+### 2.1 python的画图库——matplotlib
 
 ```python
 plt.
@@ -44,11 +44,11 @@ PPT虽然可以更改，但是较为麻烦。
 
 ### 3.3 Adobe Illustrator——想怎么改就怎么改
 
-> Adobe illustrator，简称AI，是一种应用于[出版](https://baike.baidu.com/item/出版/285005?fromModule=lemma_inlink)、[多媒体](https://baike.baidu.com/item/多媒体/140486?fromModule=lemma_inlink)和在线图像的工业标准矢量插画的软件。<br>由Adobe公司产品，和Adobe PhotoShop（PS）是一家人。当然和剪视频的pr、做特效的ae、处理PDF的acrobat也是一家人。
+> Adobe illustrator，简称AI，是一种应用于出版、多媒体和在线图像的工业标准矢量插画的软件。<br>由Adobe公司产品，和Adobe PhotoShop（PS）是一家人。当然和剪视频的pr、做特效的ae、处理PDF的acrobat也是一家人。
 >
 > 想要快速学习AI的，可以去看看这一个[【【AI 教程】拜托三连了！这绝对是你能找到的最良心AI教程 『只用90分钟』       AI基础系统教程/海报设计/排版/详细步骤/软件排版学习/】](https://www.bilibili.com/video/BV1cy4y1p7vp)
 
-改这个还不简单，B站看视频不就得了...
+改这个还不简单，B站看小协的视频不就得了...
 
 - 图片归位
 - 锦上添花
