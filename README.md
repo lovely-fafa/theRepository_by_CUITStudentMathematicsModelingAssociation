@@ -82,6 +82,8 @@
 
 #### [熵权法](./theRepository_by_CUITStudentMathematicsModelingAssociation/2_数学建模知识系列/熵权法)
 
+#### [Excel数据可视化](./theRepository_by_CUITStudentMathematicsModelingAssociation/2_数学建模知识系列/Excel数据可视化)
+
 ### 2.3 数学建模其他知识系列
 
 > 比较成体系的知识点，但是并不是模型类的，所以放到这个地方。
