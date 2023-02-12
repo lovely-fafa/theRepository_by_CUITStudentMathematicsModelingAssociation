@@ -80,9 +80,9 @@
 
 > 数学建模的各大模型，是这个仓库的主体。
 
-#### [熵权法](./theRepository_by_CUITStudentMathematicsModelingAssociation/2_数学建模知识系列/熵权法)
+#### [熵权法](./2_数学建模知识系列/熵权法)
 
-#### [Excel数据可视化](./theRepository_by_CUITStudentMathematicsModelingAssociation/2_数学建模知识系列/Excel数据可视化)
+#### [Excel数据可视化](./2_数学建模知识系列/Excel数据可视化)
 
 ### 2.3 数学建模其他知识系列
 
