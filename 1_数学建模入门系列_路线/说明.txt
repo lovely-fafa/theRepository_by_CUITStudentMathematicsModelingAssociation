@@ -1,0 +1,4 @@
+建议在这个地方看，体验感更好
+https://github.com/lovely-fafa/theRepository_by_CUITStudentMathematicsModelingAssociation/tree/main/1_%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97_%E8%B7%AF%E7%BA%BF
+
+没有软件打开 .md 文件，可以安装 typora 这个软件
