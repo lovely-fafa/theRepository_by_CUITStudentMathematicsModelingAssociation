@@ -10,7 +10,7 @@
 
 ## 3 论文排版
 
-我在这里，把一个[二级Office网课资源](https://pan.baidu.com/s/1huz-zrPcG8M6opKOsLDIqQ?pwd=1234)分享出来，如果是纯小白，可以先学二级哦。
+我在这里，把一个[二级Office网课资源](https://pan.baidu.com/s/1ETnUn3KWSfPG2m1tKbXzyw?pwd=1234)分享出来，如果是纯小白，可以先学二级哦。
 
 [数学建模清风——论文排版教程](https://www.bilibili.com/video/BV1Ci4y1c7Ld)
 

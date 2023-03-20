@@ -8,7 +8,7 @@
 
 ## 2 Excel
 
-对于初学者，Excel往往是最容易上手的。清风的[合集视频](https://www.bilibili.com/video/BV1DW411s7wi)里面讲过Excel在数学建模的一些应用的，可以学习学习。我在这里，把一个[二级Office网课资源](https://pan.baidu.com/s/1huz-zrPcG8M6opKOsLDIqQ?pwd=1234)分享出来，如果是纯小白，可以先学二级哦。
+对于初学者，Excel往往是最容易上手的。清风的[合集视频](https://www.bilibili.com/video/BV1DW411s7wi)里面讲过Excel在数学建模的一些应用的，可以学习学习。我在这里，把一个[二级Office网课资源](https://pan.baidu.com/s/1ETnUn3KWSfPG2m1tKbXzyw?pwd=1234)分享出来，如果是纯小白，可以先学二级哦。
 
 不要觉得学了编程就瞧不起Excel，不是所有电脑上都有你擅长的编程语言的环境，但是大概率是有Excel的，Excel无所不能，学无止境！永远不要说自己精通Excel！！
 
