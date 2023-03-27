@@ -4,15 +4,14 @@
 
 论文手做什么，就是把这三天瞎搞的东西，写成一篇论文就可以了。但是，不是说模型和代码就不学了，模型都看不懂，怎么写论文捏？同时，你还要学习以下这些。
 
-## 2 论文写作
+## 2 论文写作必看
 
 [数学建模清风——论文写作方法教程（国赛和美赛）](https://www.bilibili.com/video/BV1Na411w7c2)
 
-## 3 论文排版
+## 3 论文排版必看
 
-我在这里，把一个[二级Office网课资源](https://pan.baidu.com/s/1ETnUn3KWSfPG2m1tKbXzyw?pwd=1234)分享出来，如果是纯小白，可以先学二级哦。
-
-[数学建模清风——论文排版教程](https://www.bilibili.com/video/BV1Ci4y1c7Ld)
+- 我在这里，把一个[二级Office网课资源](https://pan.baidu.com/s/1ETnUn3KWSfPG2m1tKbXzyw?pwd=1234)分享出来，如果是纯小白，可以先学二级哦。
+- [数学建模清风——论文排版教程](https://www.bilibili.com/video/BV1Ci4y1c7Ld)
 
 ## 4 PPT 或 PS 或 AI
 
